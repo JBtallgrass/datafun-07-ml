@@ -53,25 +53,46 @@
 2. **Installation**: Install dependencies within the virtual environment.
 3. **Documentation**: Generate a `requirements.txt` file and document critical dependencies in README.
 
-#### Exploratory Data Analysis (EDA) 🔬
-1. **Data Acquisition**: Load the dataset into a Pandas DataFrame.
-'''python
- '''
-
-2.  **Initial Inspection**: Examine data structure and summaries.
+## Part 1: Chart a straight line
 
 
-3.  **Descriptive Analysis**: Perform statistical analysis on numerical and categorical data.
+## Part 2: Predict Average High Temperture in NYC in January 
 
 
-5. **Data Distribution Analysis**: Visualize distributions and identify outliers.
-6. **Data Transformation**: Handle missing values and engineer features as needed.
-7. **Visualization**: Create plots to explore data relationships and patterns.
-8. **Storytelling**: Compile insights into a narrative, supported by data visualizations.
+### Section 1 - Data Acquisition
 
-### Notebook Design 
-- **Consistent Structure**: Organize notebooks logically with clear documentation.
-- **Execution**: Ensure notebooks run smoothly from start to finish.
 
-### Conclusion
-This project encapsulates the journey of exploring the Wine Quality Dataset through a detailed EDA process, utilizing a range of Python libraries and tools to uncover insights and patterns within the data. The methodology and findings will be shared comprehensively, demonstrating the application of data science techniques learned throughout the course.
+### Section 2 - Data Inspection
+
+
+### Section 3 - Data Cleaning
+
+
+### Section 4 - Descriptive Statistics
+
+ 
+### Section 5 - Build the Model
+
+
+### Section 6 - Predict
+
+
+### Section 7 - Visualizations
+
+## Part 3: Predict Average High Temperture in NYC in January
+
+
+### Section 1 - Build the Model
+
+
+### Section 2 - Test the Model
+
+
+### Section 3 - Predict 
+
+
+### Section 4 - Visualizations
+
+
+## Part: Findings and insights
+

@@ -12,27 +12,36 @@
 
 
 ### Deliverables
--GitHub Repository: datafun-07-ml
+-GitHub Repository: [datafun-07-ml](https://github.com/JBtallgrass/datafun-07-ml)
 
 -Documentation: README.md
 
--Notebook: 
+-Notebook: [jballard_ml.ipynb](jballard_ml.ipynb)
 
--Findings:
+-Findings: [jballard_projfind.md](jballard_projfind.md)
 
 ### External Dependencies 🐼🪐
-- `jupyterlab`
-- `pandas`
-- `pyarrow`
-- `matplotlib`
-- `seaborn`
+'''python
+- # Import dependencies
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+from scipy import stats
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn import metrics
+from sklearn.linear_model import ElasticNet, Lasso, Ridge
+from sklearn.model_selection import KFold, cross_val_score
+''' 
 
 ### Objective 
 
 ### Dataset 
 
+data\ave_hi_nyc_jan_1895-2018.csv
 
-#### Source Citation:
+
 
 ### Project Workflow
 

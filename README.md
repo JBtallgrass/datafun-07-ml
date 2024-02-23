@@ -5,10 +5,7 @@
 
 ### Overview
 This module focuses on Machine learning and the applications of Python in predictive analysis
-    -Build a model
-    -Make predictions
-    -Visualize the model
-    -Publish your insights
+    
 
 ### Deliverables
 -GitHub Repository: [datafun-07-ml](https://github.com/JBtallgrass/datafun-07-ml)
@@ -18,6 +15,8 @@ This module focuses on Machine learning and the applications of Python in predic
 -Notebook: [jballard_ml.ipynb](jballard_ml.ipynb)
 
 -Findings: [jballard_projfind.md](jballard_projfind.md)
+
+-Images & Figures: [figures](figures)
 
 ### External Dependencies 🐼🪐
 '''python
@@ -35,12 +34,15 @@ from sklearn.model_selection import KFold, cross_val_score
 ''' 
 
 ### Objective 
+    -Build a model
+    -Make predictions
+    -Visualize the model
+    -Publish your insights
+
 
 ### Dataset 
 
 data\ave_hi_nyc_jan_1895-2018.csv
-
-
 
 ### Project Workflow
 

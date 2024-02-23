@@ -1,15 +1,14 @@
 # Module 7: Machine Learning Project
 ### Author: Jason A. Ballard
 - **Project Start Date**: February 19, 2024
-- **Project Completion Date**: TBD
-
-### Project Findings: TITLE
-
-#### Project Findings
-
+- **Project Completion Date**: February 22, 2024
 
 ### Overview
-
+This module focuses on Machine learning and the applications of Python in predictive analysis
+    -Build a model
+    -Make predictions
+    -Visualize the model
+    -Publish your insights
 
 ### Deliverables
 -GitHub Repository: [datafun-07-ml](https://github.com/JBtallgrass/datafun-07-ml)

@@ -53,46 +53,17 @@
 2. **Installation**: Install dependencies within the virtual environment.
 3. **Documentation**: Generate a `requirements.txt` file and document critical dependencies in README.
 
-## Part 1: Chart a straight line
+### Key Takeaways from the Module 7 project
 
+1. **Gradual Warming Trend with Profound Implications:** The slight upward trend in temperatures over the 124-year period not only confirms the reality of global warming but also signals long-term environmental, ecological, and social implications. This underscores the urgency of acknowledging and addressing the subtle yet significant shifts in climate patterns.
 
-## Part 2: Predict Average High Temperture in NYC in January 
+2. **Challenges in Climate Forecasting:** The discrepancies between predictions made by linear regression models and actual observed temperatures highlight the inherent difficulties in accurately modeling and forecasting climate phenomena. This points to the complexity of the climate system and the limitations of current predictive tools in capturing this complexity.
 
+3. **Need for Advanced Predictive Models:** The analysis consistently stresses the importance of methodological advancements and the development of more sophisticated models for climate prediction. Such advancements are critical for improving the accuracy of climate projections, enabling better preparedness and response strategies for climate change mitigation and adaptation.
 
-### Section 1 - Data Acquisition
+### Model comparison
 
-
-### Section 2 - Data Inspection
-
-
-### Section 3 - Data Cleaning
-
-
-### Section 4 - Descriptive Statistics
-
- 
-### Section 5 - Build the Model
-
-
-### Section 6 - Predict
-
-
-### Section 7 - Visualizations
-
-## Part 3: Predict Average High Temperture in NYC in January
-
-
-### Section 1 - Build the Model
-
-
-### Section 2 - Test the Model
-
-
-### Section 3 - Predict 
-
-
-### Section 4 - Visualizations
-
-
-## Part: Findings and insights
-
+1. I couldn't tell a differnce other than the amount of typing (Anti cut pasta) in a programming class due counting reps.
+2. The machine-learning in python (chapter 15) presented tighter predctions that may have better confidence intervals.
+3. I am not an expert and therefore I am excited to continue learning.
+4. I am amzed at the amount of variation you can play with in the programming and DataViz applications.
